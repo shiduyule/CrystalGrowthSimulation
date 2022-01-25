@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8d85b1b-ebff-4486-b00d-a635b1ccb92e" name="Default" comment="" />
+    <list default="true" id="a8d85b1b-ebff-4486-b00d-a635b1ccb92e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/2DSim.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2DSim.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,7 +235,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -467,7 +470,7 @@
       <workItem from="1643076882687" duration="185000" />
       <workItem from="1643077085033" duration="65000" />
       <workItem from="1643077165125" duration="283000" />
-      <workItem from="1643078507795" duration="411000" />
+      <workItem from="1643078507795" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="add monitor&#10;TODO: save data">
       <created>1453962040576</created>
